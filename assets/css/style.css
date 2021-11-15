@@ -81,7 +81,7 @@ footer a {
 }
 .hero { /* flex container */
   height: 300px;
-  background-image: url("../images/cassini\ spacecraft\ in\ orbit\ around\ saturn.jpeg");
+  background-image: url("../images/spacecraft.jpeg");
   border-bottom-left-radius: 30px 30px; 
   border-bottom-right-radius: 30px 30px;
   background-size: cover; 
@@ -196,7 +196,7 @@ footer a {
 .work-item-project.password-generator {
   grid-column: 2 / span 1;
   grid-row: 7 / span 3; 
-  background-image: url("../images/coming\ soon.jpg");
+  background-image: url("../images/comingsoon.jpg");
   background-size: cover;
   display: flex; 
   align-items: flex-end;

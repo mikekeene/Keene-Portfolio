@@ -81,7 +81,7 @@ footer a {
 }
 .hero { /* flex container */
   height: 300px;
-  background-image: url("/Users/michaelkeene/Desktop/projects/Professional Portfolio/assets/images/Cassini spacecraft in orbit around Saturn.jpeg");
+  background-image: url("../images/cassini\ spacecraft\ in\ orbit\ around\ saturn.jpeg");
   border-bottom-left-radius: 30px 30px; 
   border-bottom-right-radius: 30px 30px;
   background-size: cover; 
@@ -120,7 +120,7 @@ footer a {
 .about-me-photo {
   grid-column: 1;
   grid-row: 1;
-  background-image: url("/Users/michaelkeene/Desktop/projects/Professional Portfolio/assets/images/profilepic.jpg");
+  background-image: url("../images/profilepic.jpg");
   background-size: cover;
   display: flex; 
   align-items: flex-end; 
@@ -172,7 +172,7 @@ footer a {
 .work-item-project.challenge-1-refactor { 
   grid-column: 2 / span 2;
   grid-row: 1 / span 6;
-  background-image: url("/Users/michaelkeene/Desktop/projects/Professional Portfolio/assets/images/Horiseon.jpg");
+  background-image: url("../images/horiseon.jpg");
   background-size: cover; 
   display: flex; 
   align-items: flex-end; 
@@ -184,7 +184,7 @@ footer a {
 .work-item-project.run-buddy {
   grid-column: 3 /span 1;
   grid-row: 7 / span 3;
-  background-image: url("/Users/michaelkeene/Desktop/projects/Professional Portfolio/assets/images/run-buddy.jpeg");
+  background-image: url("../images/run-buddy.jpeg");
   background-size: cover;
   display: flex; 
   align-items: flex-end; /*Allow text to be at center of grid*/
@@ -196,7 +196,7 @@ footer a {
 .work-item-project.password-generator {
   grid-column: 2 / span 1;
   grid-row: 7 / span 3; 
-  background-image: url("/Users/michaelkeene/Desktop/projects/Professional Portfolio/assets/images/Coming soon.jpg");
+  background-image: url("../images/coming\ soon.jpg");
   background-size: cover;
   display: flex; 
   align-items: flex-end;

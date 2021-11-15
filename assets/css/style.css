@@ -172,7 +172,7 @@ footer a {
 .work-item-project.challenge-1-refactor { 
   grid-column: 2 / span 2;
   grid-row: 1 / span 6;
-  background-image: url("../images/horiseon.jpg");
+  background-image: url("../images/horiseon.jpeg");
   background-size: cover; 
   display: flex; 
   align-items: flex-end; 
